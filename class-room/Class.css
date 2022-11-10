@@ -43,6 +43,11 @@ body {
     color: #606367;
     display: flex;
     height: 30px;
+}
+
+.six{
+    position: relative;
+    
 
 }
 
@@ -52,22 +57,19 @@ body {
     cursor: pointer;
 }
 
-
-
-
 .T2{
     padding-right:50px;
     padding-left:50px;
 }
 
 .six{
-    justify-content:center;
-    display: flex;
     
-
-
+    
     
 }
+
+
+
 
 
 
