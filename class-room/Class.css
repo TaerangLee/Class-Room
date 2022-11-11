@@ -12,6 +12,7 @@ body {
     padding-top:20px;
     display: flex;
     justify-content:space-between;
+    
 }
 
 .bars {
@@ -75,12 +76,12 @@ body {
 
 .face{
     border-radius: 30px;
-    margin-left:30px;
+    margin-left:25px;
 }
 .log{
     display: flex;
     align-items: center;
     
     position: relative;
-    right:30px;
+    right:25px;
 }
