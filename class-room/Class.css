@@ -8,7 +8,7 @@ body {
 
 }
 
-.main1{
+.main{
     padding-top:20px;
     display: flex;
     justify-content:space-between;
@@ -42,7 +42,7 @@ body {
 .main2{
     text-align: center;
     position: relative;
-    right: 80px;
+    right: 50px;
     
     font-size: 0.875em;
     color: #606367;
@@ -65,7 +65,7 @@ body {
 .T2 {
     padding-right: 50px;
     padding-left: 50px;
-    text-decoration: line-through;
+    
 
 }
 
@@ -75,13 +75,20 @@ body {
 }
 
 .face{
+    cursor: pointer;
     border-radius: 30px;
     margin-left:25px;
 }
 .log{
+    cursor: pointer;
     display: flex;
     align-items: center;
     
     position: relative;
     right:25px;
+}
+
+.line{
+    border-top: 1px solid black;
+    position: relative;
 }
