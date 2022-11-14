@@ -8,11 +8,11 @@ body {
 
 }
 
-.main{
-    padding-top:20px;
+.main {
+    padding-top: 20px;
     display: flex;
-    justify-content:space-between;
-    
+    justify-content: space-between;
+
 }
 
 .bars {
@@ -21,8 +21,8 @@ body {
     font-size: 20px;
     color: #606367;
     cursor: pointer;
-    
-    
+
+
 
 }
 
@@ -39,15 +39,15 @@ body {
 
 }
 
-.main2{
+.main2 {
     text-align: center;
     position: relative;
     right: 50px;
-    
+
     font-size: 0.875em;
     color: #606367;
     display: flex;
-    
+
 }
 
 .six {
@@ -65,90 +65,97 @@ body {
 .T2 {
     padding-right: 50px;
     padding-left: 50px;
-    
+
 
 }
 
 .nine {
-   font-size:20px;
-   
+    font-size: 20px;
+
 }
 
-.face{
+.face {
     cursor: pointer;
     border-radius: 30px;
-    margin-left:25px;
+    margin-left: 25px;
 }
-.log{
+
+.log {
     cursor: pointer;
     display: flex;
     align-items: center;
-    
+
     position: relative;
-    right:25px;
+    right: 25px;
 }
 
-.line{
+.line {
     border-top: 1px solid black;
     position: relative;
-    top:13px;
-    border-color:#e0e0e0;
-    
+    top: 13px;
+    border-color: #e0e0e0;
+
 }
 
-.BookDraw{
-   display: flex;
+.BookDraw {
+    display: flex;
     justify-content: center;
     direction: column;
-     
+
 }
 
-.Book{
+.Book {
     position: relative;
-    top:36px;
+    top: 36px;
     border-radius: 10px;
-    
+
 }
 
-.CLN{
-   position: relative;
-   z-index: 1;
+.CLN {
+    position: relative;
+    z-index: 1;
 }
 
-.classnum{
+.classnum {
 
-      
-    font-family: "Google Sans",Roboto,Arial,sans-serif;
+
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
     color: white;
-    font-size:2.25rem;
-    
+    font-size: 2.25rem;
+
     line-height: 2.75rem;
     font-weight: 500;
     position: relative;
-    bottom:28px;
-    left:23px;
+    bottom: 28px;
+    left: 23px;
 
 }
 
-.work{
-   display:block;
-   font-size: 0.875rem;
-   color: #818385;
-    
+.work {
+    display: block;
+    font-size: 0.875rem;
+    color: #818385;
+
 }
 
 .small1,
-.small2{
+.small2 {
     font-size: 0.8125rem;
-    color:#bababa;
+    color: #bababa;
 }
 
-.All{
-    text-indent: 50;
+.All {
+    cursor: pointer;
+    position: relative;
+    left: 92px;
+    color: #427981;
 }
-    
 
-    
+.Homework {
+
+    position: relative;
+    top: 20px;
+    border: 3px solid black;
 
 
-
+}
