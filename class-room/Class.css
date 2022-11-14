@@ -116,13 +116,35 @@ body {
 }
 
 .classnum{
+
+      
     font-family: "Google Sans",Roboto,Arial,sans-serif;
-    color: black;
+    color: white;
     font-size:2.25rem;
     
     line-height: 2.75rem;
     font-weight: 500;
+    position: relative;
+    bottom:28px;
+    left:23px;
 
+}
+
+.work{
+   display:block;
+   font-size: 0.875rem;
+   color: #818385;
+    
+}
+
+.small1,
+.small2{
+    font-size: 0.8125rem;
+    color:#bababa;
+}
+
+.All{
+    text-indent: 50;
 }
     
 
