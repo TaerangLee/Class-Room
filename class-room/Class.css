@@ -116,10 +116,16 @@ body {
 }
 
 .classnum{
-   
-    color: black;
+
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    color: white;
     font-size:2.25rem;
     z-index:1; 
+    line-height: 2.75rem;
+    font-weight: 500;
+
+}
+    
 
     
 }
