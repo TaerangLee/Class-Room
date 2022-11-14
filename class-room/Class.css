@@ -97,8 +97,9 @@ body {
 }
 
 .BookDraw{
-    display: flex;
+   display: flex;
     justify-content: center;
+    direction: column;
      
 }
 
@@ -110,17 +111,15 @@ body {
 }
 
 .CLN{
-    display: flex;
-    justify-content: center;
-    text-align: left;
+   position: relative;
+   z-index: 1;
 }
 
 .classnum{
-
     font-family: "Google Sans",Roboto,Arial,sans-serif;
-    color: white;
+    color: black;
     font-size:2.25rem;
-    z-index:1; 
+    
     line-height: 2.75rem;
     font-weight: 500;
 
@@ -128,6 +127,6 @@ body {
     
 
     
-}
+
 
 
