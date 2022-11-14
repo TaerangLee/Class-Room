@@ -91,4 +91,22 @@ body {
 .line{
     border-top: 1px solid black;
     position: relative;
+    top:13px;
+    border-color:#e0e0e0;
+    
 }
+
+.BookDraw{
+    display: flex;
+    justify-content: center;
+     
+}
+
+.Book{
+    position: relative;
+    top:36px;
+    border-radius: 10px;
+    w
+}
+
+
