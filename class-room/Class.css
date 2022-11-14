@@ -135,6 +135,10 @@ body {
     display: block;
     font-size: 0.875rem;
     color: #818385;
+    position: relative;
+    left:18px;
+    top:12px;
+   
 
 }
 
@@ -142,20 +146,42 @@ body {
 .small2 {
     font-size: 0.8125rem;
     color: #bababa;
+    
+}
+
+.small1{
+    position: relative;
+    left:17px;
+    top:10px;
+  
+   
+}
+
+.small2{
+    position: relative;
+    top:10px;
+    left:17px;
 }
 
 .All {
     cursor: pointer;
     position: relative;
-    left: 92px;
+    left: 120px;
     color: #427981;
+    font-size:14px;
+    
+    height: 48px;
 }
 
 .Homework {
 
     position: relative;
-    top: 20px;
-    border: 3px solid black;
+    top: 12px;
+    border: 0.5px solid #dbdce0;
+    border-radius: 10px;
+    width: 200px;
+    height: 140px;
 
 
 }
+
