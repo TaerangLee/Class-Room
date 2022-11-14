@@ -106,7 +106,22 @@ body {
     position: relative;
     top:36px;
     border-radius: 10px;
-    w
+    
+}
+
+.CLN{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.classnum{
+   
+    color: black;
+    font-size:2.25rem;
+    z-index:1; 
+
+    
 }
 
 
