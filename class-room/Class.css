@@ -208,16 +208,81 @@ body {
     display: flex;
     justify-content: center;
     width: 100%;
+    position: relative;
+    right:50px;
    
 }
 
 .write{
+
+    cursor: pointer;
     position: relative;
     left:50px;
-    height: 60px;
+    height: 70px;
     top:11px;
-    width: 87%;
+    width: 99%;
     border-radius: 7px;
     border: 0.5px solid #d2d3d3;
+    text-indent: 70px;
     
 }
+.picture{
+    position: relative;
+    height: 40px;
+    z-index: 1;
+    display: flex;
+    top:28px;
+    left:110px;
+    border-radius: 19px;
+    
+
+}
+
+.AW{
+   width: 100%;
+}
+
+.write2{
+    cursor: pointer;
+    position: relative;
+    left:46px;
+    height: 70px;
+    top:11px;
+    width: 94%;
+    border-radius: 7px;
+    border: 0.5px solid #d2d3d3;
+    text-indent: 70px;
+    margin-top:25px;
+    
+}
+
+.write2{
+    display:flex;
+    
+
+}
+
+.T{
+    width: 100%;
+}
+
+
+
+.HW{
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    display: flex;
+    font-size:0.875rem; 
+   align-items: center;
+   font-weight: 500;
+   color: #3d4043;
+}
+
+.Date{
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    display: flex;
+    font-size:0.875rem; 
+   align-items:flex-start;
+   font-weight: 500;
+}
+
+
