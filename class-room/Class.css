@@ -340,6 +340,31 @@ body {
     right:160px;
 }
 
+.WR{
+    display: flex;
+    justify-content: center;
+}
+
+.write3{
+    display: flex;
+    justify-content: center;
+}
+
+.writebox{
+    cursor: pointer;
+    position: relative;
+    left:20px;
+    height: 330px;
+   
+
+    width: 95%;
+    border-radius: 7px;
+    border: 0.5px solid #d2d3d3;
+    
+    margin-top: 35px;
+   
+}
+
 
 
 
