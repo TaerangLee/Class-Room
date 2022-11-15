@@ -245,10 +245,10 @@ body {
 .write2{
     cursor: pointer;
     position: relative;
-    left:46px;
+    left:40px;
     height: 70px;
     top:11px;
-    width: 94%;
+    width: 95%;
     border-radius: 7px;
     border: 0.5px solid #d2d3d3;
     text-indent: 70px;
@@ -256,33 +256,59 @@ body {
     
 }
 
-.write2{
-    display:flex;
-    
 
-}
 
 .T{
     width: 100%;
 }
 
-
-
-/* .HW{
-    font-family: "Google Sans",Roboto,Arial,sans-serif;
+.Wrods{
     display: flex;
-    font-size:0.875rem; 
-   align-items: center;
-   font-weight: 500;
-   color: #3d4043;
+    align-items: center;
+}
+
+.HW{
+    display: flex;
+    align-items: center;
+    font-size: 0.875rem;
 }
 
 .Date{
-    font-family: "Google Sans",Roboto,Arial,sans-serif;
     display: flex;
-    font-size:0.875rem; 
-   align-items:flex-start;
-   font-weight: 500;
-} */
+    align-items: flex-end;
+    color:#696c70;
+    font-size:0.75rem;
+    position: relative;
+    top:1px;
+    
+}
+
+.move{
+    position: relative;
+    top:15px;
+    
+    
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(89 156 172);
+    position: relative;
+    left:20px;
+    
+}
+
+.Two{
+    position: relative;
+    bottom:37px;
+
+}
+
+
+
+
+
 
 
