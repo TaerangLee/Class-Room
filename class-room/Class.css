@@ -333,7 +333,7 @@ body {
 .Three{
     position: relative;
     left:130px;
-    font-size:17px;
+    font-size:20px;
 }
 
 .A{
@@ -364,4 +364,11 @@ body {
     
     margin-top: 35px;
    
+}
+
+.DD{
+    display: flex;
+    justify-content: end;
+    padding:34px;
+    font-size: 20px;
 }
