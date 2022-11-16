@@ -235,7 +235,7 @@ body {
     display: flex;
     top:28px;
     left:110px;
-    border-radius: 19px;
+    border-radius: 25px;
     
 
 }
@@ -368,7 +368,55 @@ body {
 
 .DD{
     display: flex;
-    justify-content: end;
+    justify-content: center;
     padding:34px;
     font-size: 20px;
+}
+
+.PIC{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    justify-content: flex-start;
+   
+}
+
+.picture2{
+    border-radius: 25px;
+    position: relative;
+    right:12px;
+    bottom:15px;
+    height: 40px;
+}
+
+.write3text{
+    position: relative;
+    bottom:20px;
+    
+}
+
+.MG{
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #3c4043;
+}
+
+.DATE2{
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1rem;
+    color: #5f6368;
+    position: relative;
+    bottom:11px;
+}
+
+.HW2{
+    color: rgba(0,0,0,.87);
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
+    font-size: 0.8125rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    position: relative;
+    left: 25px;
+    bottom:50px;
 }
