@@ -355,11 +355,11 @@ body {
     cursor: pointer;
     position: relative;
     left:20px;
-    height: 330px;
+    height: 260px;
    
 
     width: 95%;
-    border-radius: 7px;
+    border-radius: 7px 7px 0 0;
     border: 0.5px solid #d2d3d3;
     
     margin-top: 35px;
@@ -369,7 +369,7 @@ body {
 .DD{
     display: flex;
     justify-content: center;
-    padding:34px;
+    padding:34px 0 0 34px;
     font-size: 20px;
 }
 
@@ -410,6 +410,9 @@ body {
     bottom:11px;
 }
 
+.Three2{
+    margin-right:34px;
+}
 .HW2{
     color: rgba(0,0,0,.87);
     font-family: "Roboto",Helvetica,Arial,sans-serif;
@@ -418,5 +421,71 @@ body {
     line-height: 1.25rem;
     position: relative;
     left: 25px;
-    bottom:50px;
+    
+   
 }
+
+
+
+.HW2__p1, .HW2__p3{
+    margin:0;
+}
+
+.HW2__p2{
+    margin: 0;
+    margin-top:10px;
+
+}
+
+
+
+.Ary{
+
+    border: 0.5px solid rgb(210, 209, 209);
+    height: 70px;
+    width: 27vw;
+    border-radius: 8px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.AryG{
+    margin-left:25px;
+}
+
+.image1{
+
+    border-radius: 10px 0 0 10px;
+    border-right: 0.5px solid rgb(210, 209, 209);
+
+}
+
+.AryGraph{
+    margin:0px;
+    letter-spacing: .00625em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.9rem;
+    font-weight: bolder; 
+    line-height: 1.5rem;
+    color: #3c4043;
+    
+}
+
+.textt{
+    margin: 0;
+    color: #3c4043;
+    line-height: 1.5rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+}
+.textBox{
+    padding: 10px 0 0 10px;
+}
+
+.writeBox2{
+    margin-left: 40px;
+    width: 94.9%;
+    height: 100px;
+    border: #3c4043 solid 1px;
+}   
