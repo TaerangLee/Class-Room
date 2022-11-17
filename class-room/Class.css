@@ -540,9 +540,18 @@ body {
     
     
 }
+
 .LLIN{
     display: flex;
     align-items: center;
+    z-index: 1;
+    color: white;
+    font-size:23px;
+    position: relative;
+    left:8px;
+    bottom:4px;
+
+   
     
 }
 
@@ -583,5 +592,7 @@ body {
 
 .asdf{
     display: flex;
+    position: relative;
+    right:40px;
     
 }
