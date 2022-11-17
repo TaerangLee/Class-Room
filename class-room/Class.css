@@ -356,15 +356,14 @@ body {
     position: relative;
     left:20px;
     height: 260px;
-   
-
     width: 95%;
     border-radius: 7px 7px 0 0;
     border: 0.5px solid #d2d3d3;
-    
+    top:1px;
     margin-top: 35px;
    
 }
+
 
 .DD{
     display: flex;
@@ -372,6 +371,7 @@ body {
     padding:34px 0 0 34px;
     font-size: 20px;
 }
+
 
 .PIC{
     display: flex;
@@ -443,7 +443,7 @@ body {
 
     border: 0.5px solid rgb(210, 209, 209);
     height: 70px;
-    width: 27vw;
+    width: 18vw;
     border-radius: 8px;
     display: flex;
     margin-top: 10px;
@@ -486,6 +486,57 @@ body {
 .writeBox2{
     margin-left: 40px;
     width: 94.9%;
-    height: 100px;
-    border: #3c4043 solid 1px;
+    height: 70px;
+    border: rgb(210, 209, 209) solid 0.1px;
+    border-radius: 0px 0px 8px 8px;
+    display: flex;
 }   
+
+.Link{
+    
+}
+
+
+.picture3{
+    margin-left:20px;
+    margin-top:1rem;
+    border-radius: 20px;
+    height: 50%;
+   
+}
+
+.ClassAnswerBox{
+ display: flex;
+ align-items: center;
+ margin-left:20px;
+ width: 100%;
+ 
+}
+
+.ClassAnswer{
+    width: 95%;
+    height: 30px;
+    border-radius: 20px;
+    text-indent: 10px;
+    border: 0.5px solid  rgb(210, 209, 209);
+    cursor: pointer;
+}
+
+.PlayButton{
+   position: relative;
+   right:30px;
+}
+
+.wirte4{
+    position: relative;
+    left:40px;
+    display: flex;
+    margin-top:20px;
+    justify-content: center;
+    border: 0.5px solid rgb(210, 209, 209);
+    border-radius: 7px;
+    width: 95%;
+    margin-bottom:10px;
+    
+}
+
