@@ -531,12 +531,57 @@ body {
     position: relative;
     left:40px;
     display: flex;
-    margin-top:20px;
     justify-content: center;
     border: 0.5px solid rgb(210, 209, 209);
     border-radius: 7px;
     width: 95%;
-    margin-bottom:10px;
+    height: 60px;
+    margin-top:20px;
+    
+    
+}
+.LLIN{
+    display: flex;
+    align-items: center;
     
 }
 
+
+.HWW{
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    margin-left: 30px;
+}
+
+.HomeWork2{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left:30px;
+}
+
+.PITX{
+    display: flex;
+    align-items: center;
+}
+
+.asd{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(89 156 172);
+    border-radius: 20px;
+    position: relative;
+    left:20px;
+    
+    
+    
+}
+
+.asdf{
+    display: flex;
+    
+}
