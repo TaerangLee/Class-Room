@@ -1,6 +1,6 @@
 .html,
 body {
-
+    
     margin: 0px;
     padding: 0px;
 
@@ -328,12 +328,14 @@ body {
     left:55px;
     top:6px;
     width: 100%;
+    
 }
 
 .Three{
     position: relative;
-    left:130px;
+    left:50px;
     font-size:20px;
+    margin-left:80px;
 }
 
 .A{
@@ -361,6 +363,7 @@ body {
     border: 0.5px solid #d2d3d3;
     top:1px;
     margin-top: 35px;
+  
    
 }
 
@@ -595,4 +598,9 @@ body {
     position: relative;
     right:40px;
     
+}
+
+.Threee{
+    margin-left:50px;
+    font-size: 20px;
 }

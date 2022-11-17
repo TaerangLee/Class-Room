@@ -1,12 +1,5 @@
-// alert("안녕하세요!");
+const clickBox = document.querySelector(".write2");
 
-
-// for(;;){
-//     const a=prompt("이름을 입력해주세요.",'Ex)홍길동');
-// if(a=="이태랑"){
-//     alert("이태랑님 반갑습니다.");
-//     break;
-// }else{
-//     alert("다시 입력을 해주세요!");
-// }
-// }
+clickBox.addEventListener("click", () => {
+    window.location = './Class2.html';
+})
