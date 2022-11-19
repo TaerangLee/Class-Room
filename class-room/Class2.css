@@ -90,5 +90,71 @@ body {
     background-color: rgb(89 156 172);
     position: relative;
     left:20px; 
+    bottom:8px;
 }
+
+.main1{
+   
+    margin-top:30px;
+}
+
+.LLL{
+    position: relative;
+    left:13px;
+    top:8px;
+    color:white;
+    font-size:20px;
+}
+
+
+.main2{
+    margin-left: 90px;
+}
+
+.Balanced{
+    display: flex;
+    align-items: center;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    margin-bottom: 0;
+
+}
+
+.mainn{
+   
+    margin-top:2px;
+    width: 50%;
+    
+    
+}
+
+.THREEE{
+    font-size:20px;
+    margin-left:16vw;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.A{
+    display: flex;
+    align-items: center;
+    
+}
+
+.DATE{
+    margin:0;
+}
+
+.month{
+    margin:0;
+    display: flex;
+   margin-bottom: 30px;
+    justify-content: flex-start;
+    
+}
+
+
 
