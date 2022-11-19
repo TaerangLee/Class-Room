@@ -109,6 +109,7 @@ body {
 
 .main2{
     margin-left: 90px;
+    width: 100%;
 }
 
 .Balanced{
@@ -132,7 +133,7 @@ body {
 
 .THREEE{
     font-size:20px;
-    margin-left:16vw;
+    margin-left:19vw;
     display: flex;
     align-items: center;
     cursor: pointer;
