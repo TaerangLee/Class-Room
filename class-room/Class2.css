@@ -25,7 +25,6 @@ body {
     cursor: pointer;
 
 
-
 }
 
 .title {
@@ -83,39 +82,39 @@ body {
 
 }
 
-.circle{
+.circle {
     width: 40px;
     height: 40px;
     border-radius: 20px;
     background-color: rgb(89 156 172);
     position: relative;
-    left:20px; 
-    bottom:8px;
+    left: 20px;
+    bottom: 8px;
 }
 
-.main1{
-   
-    margin-top:30px;
+.main1 {
+
+    margin-top: 30px;
 }
 
-.LLL{
+.LLL {
     position: relative;
-    left:13px;
-    top:8px;
-    color:white;
-    font-size:20px;
+    left: 13px;
+    top: 8px;
+    color: white;
+    font-size: 20px;
 }
 
 
-.main2{
+.main2 {
     margin-left: 90px;
     width: 100%;
 }
 
-.Balanced{
+.Balanced {
     display: flex;
     align-items: center;
-    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
     font-size: 2rem;
     font-weight: 400;
     line-height: 2.5rem;
@@ -123,39 +122,37 @@ body {
 
 }
 
-.mainn{
-   
-    margin-top:2px;
+.mainn {
+
+    margin-top: 2px;
     width: 50%;
-    
-    
+
+
 }
 
-.THREEE{
-    font-size:20px;
-    margin-left:19vw;
+.THREEE {
+    margin:0;
+    font-size: 20px;
+    margin-left: 19vw;
     display: flex;
     align-items: center;
     cursor: pointer;
 }
 
-.A{
+.A {
     display: flex;
     align-items: center;
-    
+
 }
 
-.DATE{
-    margin:0;
+.DATE {
+    margin: 0;
 }
 
-.month{
-    margin:0;
+.month {
+    margin: 0;
     display: flex;
-   margin-bottom: 30px;
+    margin-bottom: 30px;
     justify-content: flex-start;
-    
+
 }
-
-
-
