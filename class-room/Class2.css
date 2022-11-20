@@ -41,10 +41,10 @@ body {
 }
 
 .main2 {
-    text-align: center;
+    
     position: relative;
-    right: 50px;
-
+    right: 10px;
+    bottom:40px;
     font-size: 0.875em;
     color: #606367;
     display: flex;
@@ -85,11 +85,12 @@ body {
 .circle {
     width: 40px;
     height: 40px;
-    border-radius: 20px;
+    border-radius: 25px;
     background-color: rgb(89 156 172);
     position: relative;
-    left: 20px;
-    bottom: 8px;
+    left: 25px;
+    top:1.6vw;
+    
 }
 
 .main1 {
@@ -99,16 +100,20 @@ body {
 
 .LLL {
     position: relative;
-    left: 13px;
+    left: 11px;
     top: 8px;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
+
+    
 }
 
 
 .main2 {
     margin-left: 90px;
     width: 100%;
+    display: flex;
+    
 }
 
 .Balanced {
@@ -131,12 +136,15 @@ body {
 }
 
 .THREEE {
-    margin:0;
+ 
     font-size: 20px;
     margin-left: 19vw;
     display: flex;
-    align-items: center;
+    position: relative;
+    top:43px;
+    right:20vw;
     cursor: pointer;
+   
 }
 
 .A {
@@ -155,4 +163,34 @@ body {
     margin-bottom: 30px;
     justify-content: flex-start;
 
+}
+
+.SCORE{
+    position: relative;
+    bottom:35px;
+   display: flex;
+   
+}
+
+.score100{
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight:bold;
+    line-height: 1.25rem;
+    color: #3c4043;
+    
+    
+  
+}
+
+.Line2{
+    border-top: 1px solid black;
+    position: relative;
+    bottom:1.5vw;
+    border-color: #599cac;
+    width: 40vw;
+    
+    
+    
 }
