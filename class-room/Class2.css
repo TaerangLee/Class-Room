@@ -155,6 +155,7 @@ body {
 
 .DATE {
     margin: 0;
+    height: 23%;
 }
 
 .month {
@@ -190,7 +191,88 @@ body {
     bottom:1.5vw;
     border-color: #599cac;
     width: 40vw;
+ 
     
+}
+
+.C1,
+.C2,
+.C3,
+.C4,
+.C5,
+.C6,
+.C7{
+    margin:0;
+
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #3c4043;
+}
+
+.AllC{
+    margin-bottom:20px; 
+}
+
+.evaluation{
+    border: 1px solid  rgb(210, 209, 209);
+    height: 3.5vw;
+    width: 48%;
+    border-radius: 8px;
+   display: flex;
+    margin-bottom:20px;
+}
+
+.TEST{
+    width: 28%;
+    border-radius: 5px 0 0 5px;
+}
+
+.evaluation_criteria_table{
     
-    
+     
+    letter-spacing: .00625em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.95rem;
+    font-weight:550;
+    line-height: 1.5rem;
+    color: #3c4043;
+    margin:0;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left:10px;
+}
+
+.MOVE11{
+  position: relative;
+  bottom:21px;
+}
+
+.Movecontent{
+  margin-top:8px;
+}
+
+.ima{
+    margin:0;
+    position: relative;
+    left:10px;
+}
+
+.line22{
+    border: 0.5px solid  #e9eaed;
+    position: relative;
+    bottom:10px;
+}
+
+.comment{
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom:7px;
+}
+.USER{
+    margin-right:10px;
 }
