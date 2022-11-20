@@ -455,6 +455,8 @@ body {
     border-radius: 8px;
     display: flex;
     margin-top: 10px;
+
+
 }
 
 .AryG{
@@ -478,6 +480,11 @@ body {
     line-height: 1.5rem;
     color: #3c4043;
     
+   
+}
+
+.AryGraph:hover{
+    color:pink;
 }
 
 .textt{
